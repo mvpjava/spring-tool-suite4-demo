@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!--  CONSOLE and FILE appenders configured already by Spring Boot via base.xml. -->
+	<include resource="org/springframework/boot/logging/logback/base.xml" />
+	<logger name="com.mvpjava" level="INFO" />
+	
+	<!-- Spring Boot extends Profiles to Logback -->
+	<springProfile name="dev">
+		<logger name="com.mvpjava" level="TRACE" />
+	</springProfile>
+</configuration>
