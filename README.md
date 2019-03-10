@@ -20,12 +20,6 @@ Spring elements and navigating to them easier than ever before.
 
 Spring Tool Suite 4 was re-built from the ground up and is lighter, more responsive and Spring aware (Spring Boot in mind). Now more IDE agnostic, you can run STS4 on Eclipse, Visual Studio Code and Atom.
 
-You can Download the Docker Image and run Sprint Tool Suit 4 in a Docker Container by going on my GitHub account here ...
-https://github.com/mvpjava/docker-spring-sts4-ide
-
-The Project/demo Source code is available on my GitHub account here ...
-https://github.com/mvpjava/spring-tool-suite4-demo
-
 
 ======================================================
 Subscribe to MVP Java ...
@@ -33,7 +27,9 @@ https://www.youtube.com/c/MVPJava?sub_confirmation=1
 
 Follow me ...
 Website  : http://www.mvpjava.com
+
 Facebook : https://www.facebook.com/mvpjava
+
 Twitter  : https://twitter.com/mvpjava
-GitHub   : https://github.com/mvpjava
+
 DockerHub: https://hub.docker.com/?namespace=mvpjava
